@@ -1,1 +1,1 @@
-# AMACSS Resources
+# AMACSS Course Resources
