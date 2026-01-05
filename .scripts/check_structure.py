@@ -11,7 +11,7 @@ ALLOWED_TOP_LEVEL = {
 
 ALLOWED_PREFIXES = (
     ".github/",
-    "scripts/",
+    ".scripts/",
     ".git/"
 )
 
