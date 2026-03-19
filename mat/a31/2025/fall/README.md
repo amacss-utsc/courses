@@ -1,7 +1,12 @@
 # MATA31 Fall 2025
 
-Visit [this page](https://oktagonia.github.io) for some worksheets.
+## TT2 Review Seminar
 
-## Review seminar 1
+- [Slides (PDF)](tt2_review.pdf)
+- [Slides Filled In (PDF)](tt2_review_filled.pdf)
 
-## Review seminar 2
+## Final Review Seminar
+
+- [Limits and Differentiation (PDF)](final_review_limits_differentiation.pdf)
+- [Optimization (PDF)](final_review_optimization.pdf)
+- [Graph Sketching (PDF)](final_review_graph_sketching.pdf)
